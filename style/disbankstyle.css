@@ -1,14 +1,23 @@
-.clearbutt {
-	padding: 0px;
-	border: none;
-	background-color: inherit;
-	color: black;
+*{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #242E30;
+}
+
+.bgcolor {background-color: #faf8f2;}
+
+.fircolor {background-color: #b2c6bc;}
+
+.seccolor {background-color: #316672;}
+
+.acccolor {background-color: #5eae12;}
+
+.loginblock {
+	margin: 200px 200px 200px 200px;
 }
 
 .maincontent {
-	padding: 0px;
-	margin: 0px;
-	color: white;
+	border-radius: 25px;
 }
 
 .bottomnav {
