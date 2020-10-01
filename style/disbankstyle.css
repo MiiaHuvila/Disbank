@@ -1,16 +1,19 @@
 *{
 	font-family: "Times New Roman", Times, serif;
 	font-size: 18px;
-	color: #242E30;
+	color: #260f2b;
 }
 
-.bgcolor {background-color: #faf8f2;}
+.bgcolor {background-color: #dde4da;}
 
-.fircolor {background-color: #b2c6bc;}
+.fircolor {background-color: #8baebf;}
 
-.seccolor {background-color: #316672;}
+.seccolor {background-color: #26809c;}
 
-.acccolor {background-color: #5eae12;}
+.acccolor {
+	background-color: #a42a4b;
+	color: #dde4da;
+}
 
 .loginblock {
 	margin: 200px 200px 200px 200px;
