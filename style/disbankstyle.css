@@ -4,6 +4,10 @@
 	color: #260f2b;
 }
 
+td, th {
+	border: 1px solid black;
+}
+
 .bgcolor {background-color: #dde4da;}
 
 .fircolor {background-color: #8baebf;}
@@ -21,10 +25,16 @@
 
 .maincontent {
 	border-radius: 25px;
+	padding: 20px;
 }
 
 .bottomnav {
   overflow: hidden;
   position: fixed;
   bottom: 0;
+}
+
+.clearbutt {
+	border: none;
+	
 }
