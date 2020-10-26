@@ -34,7 +34,17 @@ td, th {
   bottom: 0;
 }
 
-.clearbutt {
-	border: none;
-	
+.disbutton {
+  border: 1px solid black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  box-shadow: rgba(0,0,0,1) 1px 1px 0px;
+}
+
+a.disbutton {
+  text-decoration: none;
+  Color: #dde4da;
 }
